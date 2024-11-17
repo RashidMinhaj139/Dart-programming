@@ -1,5 +1,3 @@
-
-
 void main(List<String> args) {
 // 1=> static variable
   int a = 10;
